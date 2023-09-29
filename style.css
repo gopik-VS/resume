@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+}
+.navigation{
+    margin-right:20px ;
+}
+.navigation a{
+    text-decoration: none;
+    color: black;
+    border: 1px solid white ;
+    margin: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.about me{
+    background-color: white;
+    color: black;
+}
+.EXPERIENCE {
+    color:black;
+    font-size: 18px;
+}
+.CONTACT{
+    color: black;
+
+}
